@@ -7,9 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,35:0d0d1f,65:120a2e,100:05050a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8e8f5&fontAlignY=42&desc=Chemistry%20%E2%86%92%20Backend%20Engineering&descAlignY=58&descSize=17&descColor=8b8ba7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,35:0d1f14,65:0a2e1a,100:05130a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8f5ec&fontAlignY=42&desc=Chemistry%20%E2%86%92%20Backend%20Engineering&descAlignY=58&descSize=17&descColor=8bafa0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=40&lines=Building+reliable+backend+systems;Node.js+%C2%B7+Express+%C2%B7+Django+%C2%B7+PostgreSQL;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+APIs+%26+side+projects" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00FFA3&center=true&vCenter=true&width=720&height=40&lines=Building+reliable+backend+systems;Node.js+%C2%B7+Express+%C2%B7+Django+%C2%B7+PostgreSQL;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+APIs+%26+side+projects" alt="typing" />
 
 I combine analytical thinking from chemistry with modern software engineering to build scalable, meaningful, high-quality products.
 
@@ -17,9 +17,9 @@ I combine analytical thinking from chemistry with modern software engineering to
 
 <br/><br/>
 
-<a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05050a?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05050a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
-<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05050a?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+<a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05130a?style=for-the-badge&logo=github&logoColor=00FFA3" /></a>
+<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05130a?style=for-the-badge&logo=linkedin&logoColor=00FFA3" /></a>
+<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
 
 <br/>
 
@@ -249,9 +249,9 @@ $ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,50:120a2e,100:05050a&height=180&section=footer&text=Build.%20Experiment.%20Iterate.&fontSize=22&fontColor=e8e8f5&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05050a?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05050a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
-<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05050a?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+<a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05130a?style=for-the-badge&logo=github&logoColor=00FFA3" /></a>
+<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05130a?style=for-the-badge&logo=linkedin&logoColor=00FFA3" /></a>
+<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
 
 <sub>Thanks for stopping by.</sub>
 

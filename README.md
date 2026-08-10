@@ -28,7 +28,7 @@ I combine analytical thinking from chemistry with modern software engineering to
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,50:00C853,100:00695C&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -116,7 +116,7 @@ $ _
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,50:00C853,100:00695C&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -221,7 +221,7 @@ $ _
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,50:00C853,100:00695C&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -243,7 +243,7 @@ $ _
 
 > Chemistry taught me that nothing works by accident — every reaction follows a mechanism, and understanding it is what separates a guess from an engineer's judgment. I hold code to the same standard: know *why* it works, not just *that* it works.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,50:00C853,100:00695C&height=3&width=100%" width="100%"/>
 
 <div align="center">
 

@@ -23,8 +23,8 @@ I combine analytical thinking from chemistry with modern software engineering to
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/hoseinrza?label=FOLLOWERS&style=for-the-badge&color=0d0d1f&labelColor=05050a" height="28"/>
-<img src="https://komarev.com/ghpvc/?username=hoseinrza&label=PROFILE+VIEWS&color=0d0d1f&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/github/followers/hoseinrza?label=FOLLOWERS&style=for-the-badge&color=0d1f14&labelColor=05130a" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=hoseinrza&label=PROFILE+VIEWS&color=0d1f14&style=for-the-badge" height="28"/>
 
 </div>
 

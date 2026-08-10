@@ -11,18 +11,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=40&lines=Building+reliable+backend+systems;Node.js+%C2%B7+Express+%C2%B7+Django+%C2%B7+PostgreSQL;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+APIs+%26+side+projects" alt="typing" />
 
+I combine analytical thinking from chemistry with modern software engineering to build scalable, meaningful, high-quality products.
+
 <sub><a href="https://github.com/hoseinrza">github.com/hoseinrza</a></sub>
 
 <br/><br/>
 
-<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05050a?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05050a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
 <a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05050a?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05050a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05050a?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hoseinrza&label=PROFILE+VIEWS&color=0d0d1f&style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/github/followers/hoseinrza?label=FOLLOWERS&style=for-the-badge&color=0d0d1f&labelColor=05050a" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=hoseinrza&label=PROFILE+VIEWS&color=0d0d1f&style=for-the-badge" height="28"/>
 
 </div>
 
@@ -42,7 +44,11 @@ I'm currently moving toward **backend and full-stack engineering** — designing
 
 <br/>
 
-<div align="center">
+## `02` &nbsp;Status
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ```
 $ whoami
@@ -57,54 +63,64 @@ Backend Development · APIs · Databases
 $ building
 Scalable, well-architected web applications
 
+$ goal
+Impact through code and innovation
+
 $ _
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**⚡ Currently Building**
+
 </div>
+
+| | |
+|---|---|
+| Backend Development | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+| Node.js / Express APIs | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+| PostgreSQL & MongoDB | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+| Docker & DevOps | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+| Scalable Web Applications | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+
+<sub>› SEO-Agent — AI-driven SEO audits</sub><br/>
+<sub>› shoptelgram — serverless commerce bot</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FB0,50:7C3AED,100:00E5FF&height=3&width=100%" width="100%"/>
 
 <br/>
 
-## `02` &nbsp;Tech Stack
+## `03` &nbsp;Tech Stack
 
-<div align="center">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,py&theme=dark" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-
-<br/><br/>
-
-**DevOps / Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" />
-
-<br/><br/>
-
-**Programming / Data / AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" />
-
-</div>
+<table width="100%">
+<tr>
+<th width="20%">Frontend</th>
+<th width="20%">Backend</th>
+<th width="20%">Databases</th>
+<th width="20%">DevOps / Infra</th>
+<th width="20%">AI / Data / Tools</th>
+</tr>
+<tr align="center">
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,py,django&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx,linux&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=py,tensorflow,numpy,jupyter&theme=dark" /></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
 
 <br/>
 
-## `03` &nbsp;Featured Projects
+## `04` &nbsp;Featured Projects
 
 <table width="100%">
 <tr>
@@ -179,49 +195,33 @@ $ _
 
 <br/>
 
-## `04` &nbsp;GitHub Analytics
+## `05` &nbsp;GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d0d1f&title_color=00E5FF&icon_color=FF2FB0&text_color=c9c9e0" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d0d1f&title_color=00E5FF&text_color=c9c9e0" />
 
-<img src="https://streak-stats.demolab.com?user=hoseinrza&hide_border=true&theme=dark&background=0D0D1F&ring=7C3AED&fire=FF2FB0&currStreakLabel=00E5FF" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinrza&theme=react-dark&hide_border=true&bg_color=0D0D1F&color=00E5FF&line=7C3AED&point=FF2FB0" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hoseinrza&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
+<table>
+<tr>
+<td><img src="https://streak-stats.demolab.com?user=hoseinrza&hide_border=true&theme=dark&background=0D0D1F&ring=7C3AED&fire=FF2FB0&currStreakLabel=00E5FF" /></td>
+<td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoseinrza/hoseinrza/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoseinrza/hoseinrza/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/hoseinrza/hoseinrza/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hoseinrza&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:FF2FB0&height=3&width=100%" width="100%"/>
-
-<br/>
-
-## `05` &nbsp;Currently Building
-
-```
-┌──────────────────────────────────────────────┐
-│  SYSTEM STATUS                                │
-│                                                │
-│  ● Backend Development ............. ACTIVE   │
-│  ● Node.js / Express ............... ACTIVE   │
-│  ● REST API Design .................. ACTIVE  │
-│  ● PostgreSQL / MongoDB ............. ACTIVE   │
-│  ● Docker ............................ ACTIVE │
-│                                                │
-│  > SEO-Agent      — AI-driven SEO audits      │
-│  > shoptelgram    — serverless commerce bot   │
-└──────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FB0,50:7C3AED,100:00E5FF&height=3&width=100%" width="100%"/>
 
 <br/>
 

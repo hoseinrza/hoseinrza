@@ -80,11 +80,11 @@ $ _
 
 | | |
 |---|---|
-| Backend Development | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
-| Node.js / Express APIs | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
-| PostgreSQL & MongoDB | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
-| Docker & DevOps | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
-| Scalable Web Applications | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05050a?style=flat-square&color=00E5FF) |
+| Backend Development | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| Node.js / Express APIs | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| PostgreSQL & MongoDB | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| Docker & DevOps | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| Scalable Web Applications | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
 
 <sub>› SEO-Agent — AI-driven SEO audits</sub><br/>
 <sub>› shoptelgram — serverless commerce bot</sub>
@@ -93,7 +93,7 @@ $ _
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FB0,50:7C3AED,100:00E5FF&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00695C,50:00C853,100:00FFA3&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -125,7 +125,7 @@ $ _
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:120a2e&height=70&text=OpenBridge&fontSize=22&fontColor=00E5FF&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0f2e22&height=70&text=OpenBridge&fontSize=22&fontColor=00FFA3&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **Real-time messaging app** with secure file sharing and cross-device sync.
 
@@ -135,7 +135,7 @@ $ _
 
 </td>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:2e0a20&height=70&text=SEO-Agent&fontSize=22&fontColor=FF2FB0&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e12&height=70&text=SEO-Agent&fontSize=22&fontColor=39FF14&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **AI agent** that audits sites, builds keyword databases, and analyzes competitors.
 
@@ -147,7 +147,7 @@ $ _
 </tr>
 <tr>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:0a2e1a&height=70&text=Shoptelgram&fontSize=22&fontColor=00FFA3&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e28&height=70&text=Shoptelgram&fontSize=22&fontColor=1DE9B6&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **Serverless Telegram shop bot** on Cloudflare Workers — catalog, cart, orders, admin panel.
 
@@ -157,7 +157,7 @@ $ _
 
 </td>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:2e2a0a&height=70&text=Finora&fontSize=22&fontColor=FFD23F&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:1f2e0a&height=70&text=Finora&fontSize=22&fontColor=B2FF59&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **Personal finance app** for tracking expenses, income, budgets, and spending insights.
 
@@ -169,7 +169,7 @@ $ _
 </tr>
 <tr>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:120a2e&height=70&text=WooCommerce+Reports+Pro&fontSize=18&fontColor=7C3AED&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e1a&height=70&text=WooCommerce+Reports+Pro&fontSize=18&fontColor=00C853&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **WooCommerce analytics plugin** with a scalable reporting architecture.
 
@@ -179,7 +179,7 @@ $ _
 
 </td>
 <td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1f,100:2e0a0a&height=70&text=Persian+Pedigree&fontSize=20&fontColor=FF6B6B&fontAlign=8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:132e13&height=70&text=Persian+Pedigree&fontSize=20&fontColor=66BB6A&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **In-browser family tree app** using medical genetics notation.
 
@@ -191,7 +191,7 @@ $ _
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FB0,50:7C3AED,100:00E5FF&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00695C,50:00C853,100:00FFA3&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -199,14 +199,14 @@ $ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d0d1f&title_color=00E5FF&icon_color=FF2FB0&text_color=c9c9e0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d0d1f&title_color=00E5FF&text_color=c9c9e0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&icon_color=00C853&text_color=c9e0d0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&text_color=c9e0d0" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinrza&theme=react-dark&hide_border=true&bg_color=0D0D1F&color=00E5FF&line=7C3AED&point=FF2FB0" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinrza&theme=react-dark&hide_border=true&bg_color=0D1F14&color=00FFA3&line=00C853&point=00695C" width="100%"/>
 
 <table>
 <tr>
-<td><img src="https://streak-stats.demolab.com?user=hoseinrza&hide_border=true&theme=dark&background=0D0D1F&ring=7C3AED&fire=FF2FB0&currStreakLabel=00E5FF" /></td>
+<td><img src="https://streak-stats.demolab.com?user=hoseinrza&hide_border=true&theme=dark&background=0D1F14&ring=00C853&fire=39FF14&currStreakLabel=00FFA3" /></td>
 <td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoseinrza/hoseinrza/output/github-contribution-grid-snake-dark.svg" />
@@ -247,7 +247,7 @@ $ _
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,50:120a2e,100:05050a&height=180&section=footer&text=Build.%20Experiment.%20Iterate.&fontSize=22&fontColor=e8e8f5&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,50:0a2e1a,100:05130a&height=180&section=footer&text=Build.%20Experiment.%20Iterate.&fontSize=22&fontColor=e8f5ec&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05130a?style=for-the-badge&logo=github&logoColor=00FFA3" /></a>
 <a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05130a?style=for-the-badge&logo=linkedin&logoColor=00FFA3" /></a>

@@ -7,9 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,35:0d1f14,65:0a2e1a,100:05130a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8f5ec&fontAlignY=42&desc=Chemistry%20%E2%86%92%20WooCommerce%20%26%20Full-Stack%20Engineering&descAlignY=58&descSize=17&descColor=8bafa0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,35:0d1f14,65:0a2e1a,100:05130a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8f5ec&fontAlignY=42&desc=Chemistry%20%E2%86%92%20WooCommerce%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=17&descColor=8bafa0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00FFA3&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+WordPress+%2F+WooCommerce+systems;PHP+%C2%B7+Elementor+%C2%B7+React+%C2%B7+TypeScript;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+EdTech+%26+e-commerce+platforms" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00FFA3&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+WordPress+%2F+WooCommerce+systems;PHP+%C2%B7+Elementor+%C2%B7+React+%C2%B7+TypeScript;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+EdTech+%2B+e-commerce+platforms" alt="typing" />
 
 I combine analytical thinking from chemistry with modern software engineering — from WooCommerce/WordPress systems to React/TypeScript and Python — to build scalable, meaningful, high-quality products.
 
@@ -224,8 +224,8 @@ $ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&icon_color=00C853&text_color=c9e0d0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&text_color=c9e0d0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&icon_color=00C853&text_color=c9e0d0&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&text_color=c9e0d0&cache_seconds=86400" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinrza&theme=react-dark&hide_border=true&bg_color=0D1F14&color=00FFA3&line=00C853&point=00695C" width="100%"/>
 

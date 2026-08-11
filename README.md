@@ -7,11 +7,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,35:0d1f14,65:0a2e1a,100:05130a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8f5ec&fontAlignY=42&desc=Chemistry%20%E2%86%92%20Backend%20Engineering&descAlignY=58&descSize=17&descColor=8bafa0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,35:0d1f14,65:0a2e1a,100:05130a&height=260&section=header&text=AMIRHOSSEIN%20REZAZADEH&fontSize=40&fontColor=e8f5ec&fontAlignY=42&desc=Chemistry%20%E2%86%92%20WooCommerce%20%26%20Full-Stack%20Engineering&descAlignY=58&descSize=17&descColor=8bafa0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00FFA3&center=true&vCenter=true&width=720&height=40&lines=Building+reliable+backend+systems;Node.js+%C2%B7+Express+%C2%B7+Django+%C2%B7+PostgreSQL;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+APIs+%26+side+projects" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=00FFA3&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+WordPress+%2F+WooCommerce+systems;PHP+%C2%B7+Elementor+%C2%B7+React+%C2%B7+TypeScript;Precision+from+the+lab%2C+applied+to+code;Currently+shipping+EdTech+%26+e-commerce+platforms" alt="typing" />
 
-I combine analytical thinking from chemistry with modern software engineering to build scalable, meaningful, high-quality products.
+I combine analytical thinking from chemistry with modern software engineering — from WooCommerce/WordPress systems to React/TypeScript and Python — to build scalable, meaningful, high-quality products.
 
 <sub><a href="https://github.com/hoseinrza">github.com/hoseinrza</a></sub>
 
@@ -19,7 +19,7 @@ I combine analytical thinking from chemistry with modern software engineering to
 
 <a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05130a?style=for-the-badge&logo=github&logoColor=00FFA3" /></a>
 <a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05130a?style=for-the-badge&logo=linkedin&logoColor=00FFA3" /></a>
-<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
+<a href="mailto:amir1382re@gmail.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
 
 <br/>
 
@@ -38,7 +38,7 @@ I combine analytical thinking from chemistry with modern software engineering to
 
 I started in **chemistry** — a discipline with zero tolerance for guessing. Every reaction follows a mechanism; every result has to be reproducible. That same standard now shapes how I write software: I want to understand *why* a system behaves the way it does before I trust it in production, not just *that* it works.
 
-I'm currently moving toward **backend and full-stack engineering** — designing APIs, modeling data, and shipping applications that hold up under real use. I'd rather fully understand and ship one well-built system than collect ten half-finished tutorials.
+I'm a **WordPress/WooCommerce developer at Tamland**, an online education platform, where I build plugins, custom Elementor widgets, and WooCommerce customizations end-to-end — hooks, template overrides, custom roles, REST APIs, and performance work. Alongside that I ship side projects across **React/TypeScript, Python, and Google Apps Script**, and I'm finishing a chemistry degree at Shahid Beheshti University before pivoting toward computer science for graduate studies — pairing scientific rigor with a growing interest in product-driven, entrepreneurial engineering.
 
 </td></tr></table>
 
@@ -55,16 +55,16 @@ $ whoami
 Amirhossein Rezazadeh
 
 $ role
-Chemistry Student → Software Engineer
+Chemistry Student → WooCommerce/WordPress Developer
 
 $ focus
-Backend Development · APIs · Databases
+WooCommerce · Elementor · PHP · REST APIs
 
 $ building
-Scalable, well-architected web applications
+E-commerce & EdTech platforms at Tamland
 
 $ goal
-Impact through code and innovation
+Bridging chemistry rigor with product engineering
 
 $ _
 ```
@@ -80,12 +80,13 @@ $ _
 
 | | |
 |---|---|
-| Backend Development | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
-| Node.js / Express APIs | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
-| PostgreSQL & MongoDB | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
-| Docker & DevOps | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
-| Scalable Web Applications | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| WooCommerce / Elementor Dev | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| RADAR — Research Analysis Platform | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| SARENLABS — Lab Chemicals Store | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| Telegram Sales Bot (Cloudflare) | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
+| Chemistry BSc (Shahid Beheshti) | ![ACTIVE](https://img.shields.io/badge/-ACTIVE-05130a?style=flat-square&color=00FFA3) |
 
+<sub>› RADAR — chemistry academic research analysis platform</sub><br/>
 <sub>› SEO-Agent — AI-driven SEO audits</sub><br/>
 <sub>› shoptelgram — serverless commerce bot</sub>
 
@@ -101,20 +102,22 @@ $ _
 
 <table width="100%">
 <tr>
+<th width="20%">WordPress / WooCommerce</th>
 <th width="20%">Frontend</th>
 <th width="20%">Backend</th>
 <th width="20%">Databases</th>
-<th width="20%">DevOps / Infra</th>
-<th width="20%">AI / Data / Tools</th>
+<th width="20%">DevOps / AI / Data</th>
 </tr>
 <tr align="center">
-<td><img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=php,wordpress,mysql&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs,express,py,django&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx,linux&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=py,tensorflow,numpy,jupyter&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx,tensorflow&theme=dark" /></td>
 </tr>
 </table>
+
+<sub>Also: Elementor widget dev · WooCommerce hooks/REST API · Vite · ReactFlow · D3.js · Next.js · React Native · Google Apps Script · NumPy/Pandas/Scikit-learn</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,50:00C853,100:00695C&height=3&width=100%" width="100%"/>
 
@@ -123,50 +126,6 @@ $ _
 ## `04` &nbsp;Featured Projects
 
 <table width="100%">
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0f2e22&height=70&text=OpenBridge&fontSize=22&fontColor=00FFA3&fontAlign=8&fontAlignY=55" width="100%"/>
-
-**Real-time messaging app** with secure file sharing and cross-device sync.
-
-`React` `JavaScript` `Real-time`
-
-[→ Repo](https://github.com/hoseinrza/OpenBridge)
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e12&height=70&text=SEO-Agent&fontSize=22&fontColor=39FF14&fontAlign=8&fontAlignY=55" width="100%"/>
-
-**AI agent** that audits sites, builds keyword databases, and analyzes competitors.
-
-`Python` `AI Agent` `Automation`
-
-[→ Repo](https://github.com/hoseinrza/SEO-Agent)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e28&height=70&text=Shoptelgram&fontSize=22&fontColor=1DE9B6&fontAlign=8&fontAlignY=55" width="100%"/>
-
-**Serverless Telegram shop bot** on Cloudflare Workers — catalog, cart, orders, admin panel.
-
-`TypeScript` `Cloudflare Workers` `Serverless`
-
-[→ Repo](https://github.com/hoseinrza/shoptelgram)
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:1f2e0a&height=70&text=Finora&fontSize=22&fontColor=B2FF59&fontAlign=8&fontAlignY=55" width="100%"/>
-
-**Personal finance app** for tracking expenses, income, budgets, and spending insights.
-
-`Kotlin` `Mobile`
-
-[→ Repo](https://github.com/hoseinrza/finora)
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e1a&height=70&text=WooCommerce+Reports+Pro&fontSize=18&fontColor=00C853&fontAlign=8&fontAlignY=55" width="100%"/>
@@ -179,13 +138,79 @@ $ _
 
 </td>
 <td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0f2e22&height=70&text=RADAR&fontSize=22&fontColor=00FFA3&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**Academic research analysis platform** for chemistry — canvas-based exploration with memoized, animation-stable rendering.
+
+`React` `TypeScript` `FastAPI` `PostgreSQL`
+
+<sub>Private / client project</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e12&height=70&text=SEO-Agent&fontSize=22&fontColor=39FF14&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**AI agent** that audits sites, builds keyword databases, and analyzes competitors.
+
+`Python` `AI Agent` `Automation`
+
+[→ Repo](https://github.com/hoseinrza/SEO-Agent)
+
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0a2e28&height=70&text=Shoptelgram&fontSize=22&fontColor=1DE9B6&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**Serverless Telegram shop bot** on Cloudflare Workers — catalog, cart, orders, admin panel.
+
+`TypeScript` `Cloudflare Workers` `Serverless`
+
+[→ Repo](https://github.com/hoseinrza/shoptelgram)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:1f2e0a&height=70&text=SARENLABS&fontSize=20&fontColor=B2FF59&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**WooCommerce storefront for lab chemicals** — restyled product/cart/checkout templates and brand identity work.
+
+`WooCommerce` `PHP` `Branding`
+
+<sub>Private / client project</sub>
+
+</td>
+<td width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:132e13&height=70&text=Persian+Pedigree&fontSize=20&fontColor=66BB6A&fontAlign=8&fontAlignY=55" width="100%"/>
 
 **In-browser family tree app** using medical genetics notation.
 
-`JavaScript` `Data Visualization`
+`React` `ReactFlow` `D3.js`
 
 [→ Repo](https://github.com/hoseinrza/Persian-Pedigree)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:0f2e22&height=70&text=OpenBridge&fontSize=22&fontColor=00FFA3&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**Real-time messaging app** with secure file sharing and cross-device sync.
+
+`React` `JavaScript` `Real-time`
+
+[→ Repo](https://github.com/hoseinrza/OpenBridge)
+
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1f14,100:1f2e0a&height=70&text=Finora&fontSize=22&fontColor=B2FF59&fontAlign=8&fontAlignY=55" width="100%"/>
+
+**Personal finance app** for tracking expenses, income, budgets, and spending insights.
+
+`Kotlin` `Mobile`
+
+[→ Repo](https://github.com/hoseinrza/finora)
 
 </td>
 </tr>
@@ -251,7 +276,7 @@ $ _
 
 <a href="https://github.com/hoseinrza"><img src="https://img.shields.io/badge/-GitHub-05130a?style=for-the-badge&logo=github&logoColor=00FFA3" /></a>
 <a href="https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/"><img src="https://img.shields.io/badge/-LinkedIn-05130a?style=for-the-badge&logo=linkedin&logoColor=00FFA3" /></a>
-<a href="mailto:amirhosseinrezazadeh@outlook.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
+<a href="mailto:amir1382re@gmail.com"><img src="https://img.shields.io/badge/-Email-05130a?style=for-the-badge&logo=gmail&logoColor=00FFA3" /></a>
 
 <sub>Thanks for stopping by.</sub>
 

@@ -224,8 +224,8 @@ $ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&icon_color=00C853&text_color=c9e0d0&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&text_color=c9e0d0&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=hoseinrza&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&icon_color=00C853&text_color=c9e0d0&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&hide_border=true&theme=dark&bg_color=0d1f14&title_color=00FFA3&text_color=c9e0d0&cache_seconds=86400" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinrza&theme=react-dark&hide_border=true&bg_color=0D1F14&color=00FFA3&line=00C853&point=00695C" width="100%"/>
 
@@ -242,7 +242,7 @@ $ _
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hoseinrza&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=hoseinrza&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 

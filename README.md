@@ -10,8 +10,8 @@
 
 <br/>
 
-**PHP & Laravel developer** with deep experience in **WordPress and WooCommerce**.  
-I build custom plugins, Elementor widgets, REST APIs, and high-performance systems for EdTech and e-commerce platforms.
+**I build fast, maintainable backends and WordPress systems for EdTech and e-commerce.**  
+Custom plugins · Elementor widgets · REST APIs · role-based dashboards.
 
 <br/>
 
@@ -25,25 +25,86 @@ I build custom plugins, Elementor widgets, REST APIs, and high-performance syste
 
 <br/>
 
-## About Me
+## 👋 About Me
 
-I’m a **PHP developer** who works primarily with **Laravel**, **WordPress**, and **WooCommerce**.  
-Most of my day is spent building and maintaining custom plugins, Elementor widgets, REST endpoints, and role-based dashboards at **Tamland**, an online education platform.
+I'm a **PHP developer** working with **Laravel**, **WordPress**, and **WooCommerce**. At **Tamland**, an online education platform, I design and maintain the custom plugins, Elementor widgets, REST endpoints, and dashboards that real students, teachers, and support staff use every day.
 
-A large part of my work is performance-focused: finding and removing N+1 queries, designing efficient reporting systems, and making data-heavy features fast enough for real users.
+What I care about most is **performance**: hunting down N+1 queries, building reporting systems that stay fast as data grows, and making data-heavy screens feel instant.
 
-My background in Chemistry (BSc from Shahid Beheshti University) still shapes how I approach problems — I prefer to understand *why* something works before I trust it in production.
-
-I also build side projects with **React**, **TypeScript**, and **Python**.
+My **Chemistry** background (BSc, Shahid Beheshti University) shaped how I work: I want to understand *why* something works before I trust it in production.
 
 <br/>
 
-## Current Status
+## 🚀 What I Do
+
+- **Custom WordPress/WooCommerce plugins**: modular, hook-driven, upgrade-safe
+- **Elementor widgets**: reusable, responsive, and tablet-tested
+- **REST APIs**: clean endpoints with proper auth and caching
+- **Performance work**: query audits, caching strategies, faster admin and reporting screens
+- **Role-based dashboards**: for teachers, call-center staff, and admins
+
+<br/>
+
+## 📈 Impact
+
+<!-- Replace with your real numbers; concrete results make a profile stand out -->
+- Reduced dashboard load time from **X s → Y s** by removing N+1 queries and adding caching
+- Built a sales-stats system that returns results for **any date range** instantly
+- Shipped **N+** plugins/widgets in production serving **N+ users**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+## 📌 Featured Projects
+
+<!-- Pin your best 3–4 repos and describe each in one line -->
+| Project | What it does | Stack |
+|---|---|---|
+| [**Project name**](https://github.com/hoseinrza/repo) | One-line description of the problem it solves | React · TypeScript |
+| [**Project name**](https://github.com/hoseinrza/repo) | One-line description of the problem it solves | Python |
+| [**Project name**](https://github.com/hoseinrza/repo) | One-line description of the problem it solves | PHP · WordPress |
+
+<br/>
+
+## 🎯 Current Focus
 
 ```text
-$ role          PHP & Laravel Developer
+$ role          PHP & Laravel Developer @ Tamland (EdTech)
 $ specialty     WordPress · WooCommerce · Custom Plugins
-$ workplace     Tamland (EdTech)
 $ focus         Performance · REST APIs · Elementor · Clean Architecture
 $ also          React · TypeScript · Python
-$ next          Computer Science (graduate studies)
+$ next          Graduate studies in Computer Science
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoseinrza&show_icons=true&theme=transparent&hide_border=true&title_color=00C853&icon_color=00C853&text_color=8bafa0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinrza&layout=compact&theme=transparent&hide_border=true&title_color=00C853&text_color=8bafa0" alt="Top languages" />
+</p>
+
+<br/>
+
+## 📫 Let's Connect
+
+Open to interesting backend, WordPress, and performance-focused work.  
+Reach me at **amir1382re@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/amirhossein-rezazadeh-3906602a9/).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05130a,50:0a2e1a,100:05130a&height=100&section=footer" width="100%" alt=""/>
